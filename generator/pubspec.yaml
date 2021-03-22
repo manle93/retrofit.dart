@@ -10,7 +10,7 @@ environment:
 
 dependencies:
   dio: ^4.0.0-beta7
-  source_gen: ^0.9.10+4
+  source_gen: ^1.0.0
   built_collection: ^5.0.0
   code_builder: ^3.7.0
   tuple: ^2.0.0
